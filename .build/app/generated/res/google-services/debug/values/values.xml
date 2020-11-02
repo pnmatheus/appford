@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">908730194763-sdh92nc94056gj2t7ibeqikt25kn30hf.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://app-ford.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">908730194763</string>
+    <string name="google_api_key" translatable="false">AIzaSyA1_c4n8hQR-o2yOt0OQ6cWaoG8t5FymtI</string>
+    <string name="google_app_id" translatable="false">1:908730194763:android:5708dbbac31a8f3c3ce6ce</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA1_c4n8hQR-o2yOt0OQ6cWaoG8t5FymtI</string>
+    <string name="google_storage_bucket" translatable="false">app-ford.appspot.com</string>
+    <string name="project_id" translatable="false">app-ford</string>
+</resources>
